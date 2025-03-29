@@ -4,7 +4,7 @@ The sarif tool orchestrator is a docker orchestrator that following a toml file 
 
 ## Documentation
 
-Documentation can be found inside the [Docs Folder](https://github.com/ieeta-pt/sarif-orchestrator/tree/main/docs)
+Documentation can be found inside the [Docs Folder](https://github.com/ieeta-pt/sarif-orchestrator/tree/master/docs)
 
 ## GitHub Actions
 
